@@ -1,5 +1,10 @@
-## Hi there 👋
+## $whoami 🖥️
 
+Hi there, I'm Jayse. A CTF player and hobbyist security researcher.
+
+- 📖 Currently studying for OSCP and CPTS
+- 💬 The languages I am most proficient in are python and bash.
+- 🔭 I may publish write ups on CTF challenges or PoCs for certain CVEs
 <!--
 **cipher1x1/cipher1x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
