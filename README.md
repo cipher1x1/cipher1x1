@@ -1,8 +1,8 @@
 ## $whoami 🖥️
 
-Hi there, I'm Jayse. A CTF player and hobbyist security researcher.
+Hi there, I'm Jayse. A CTF player and hobbyist security researcher. I enjoy figuring out how things break and how to prevent them from breaking.
 
-- 📖 Currently studying for OSCP and CPTS
+- 📖 Currently working on: Homelab writeups, studying for OSCP and CPTS
 - 💬 The languages I am most proficient in are python and bash.
 - 🧠 I am incredibly experienced in Linux system administration
 - 🔭 I may publish write ups on CTF challenges or PoCs for certain CVEs
